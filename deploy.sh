@@ -26,4 +26,3 @@ fi
 # Reset back to develop.
 git checkout develop
 git branch -D master
-git stash pop
